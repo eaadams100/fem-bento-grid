@@ -1,0 +1,9 @@
+:root {
+  --clr-purple100: hsl(254, 88%, 90%);
+  --clr-purple500: hsl(256, 67%, 59%);
+  --clr-yellow100: hsl(31, 66%, 93%); 
+  --clr-yellow500: hsl(39, 100%, 71%); 
+  --clr-white: #fff;
+  --clr-black: #000;
+
+}
